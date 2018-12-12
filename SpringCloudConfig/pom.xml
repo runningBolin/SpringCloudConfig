@@ -54,5 +54,6 @@
   <modules>
     <module>config-server</module>
     <module>config-client</module>
+    <module>config-server-regist-center</module>
   </modules>
 </project>
